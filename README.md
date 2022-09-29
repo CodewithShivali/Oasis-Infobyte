@@ -12,8 +12,8 @@ Languages: HTML, CSS, JavaScript
 
 Description: A Tribute page, dedicated to M.S. Dhoni.
 
-# Task-3: A Basic To-Do WebApp
+# Task-3: A Basic Task manager
 Languages: HTML, CSS, JavaScript
 
-Description: A basic To-Do webapp that enables a user to add daily tasks.
+Description: A basic To-Do list that enables a user to add daily tasks.
 
