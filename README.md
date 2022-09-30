@@ -5,7 +5,7 @@
 # Task-1: Calculator
 Languages: HTML, CSS, JavaScript
 
-Description: The web based calculator is designed for basic arithmetic operations.
+Description: The web based calculator is designed for performing basic arithmetic operations.
 
 # Task-2: Tribute Page
 Languages: HTML, CSS, JavaScript
